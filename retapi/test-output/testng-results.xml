@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1450" started-at="2018-11-21T12:36:39Z" finished-at="2018-11-21T12:36:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1450" started-at="2018-11-21T12:36:39Z" finished-at="2018-11-21T12:36:41Z">
+      <class name="com.epam.restapi.GetPITest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.epam.restapi.GetPITest@66d2e7d9]" name="setUp" is-config="true" duration-ms="4" started-at="2018-11-21T18:06:39Z" finished-at="2018-11-21T18:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getAllUserTest()[pri:0, instance:com.epam.restapi.GetPITest@66d2e7d9]" name="getAllUserTest" duration-ms="1012" started-at="2018-11-21T18:06:39Z" finished-at="2018-11-21T18:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUserTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.epam.restapi.GetPITest@66d2e7d9]" name="setUp" is-config="true" duration-ms="0" started-at="2018-11-21T18:06:40Z" finished-at="2018-11-21T18:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getSingleUserNotFound()[pri:0, instance:com.epam.restapi.GetPITest@66d2e7d9]" name="getSingleUserNotFound" duration-ms="420" started-at="2018-11-21T18:06:40Z" finished-at="2018-11-21T18:06:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleUserNotFound -->
+      </class> <!-- com.epam.restapi.GetPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
